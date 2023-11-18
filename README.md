@@ -22,10 +22,10 @@
 
 >App review:
 
-<img src="https://github.com/Padmaja7664/AnimeFinder/assets/96992366/dacefae7-b716-42a7-92ec-8cd7526e7517" width="300" height="500">                               
+<img src="https://github.com/Padmaja7664/AnimeFinder/assets/96992366/dacefae7-b716-42a7-92ec-8cd7526e7517" width="300" height="500">   
 
 
-https://github.com/Padmaja7664/AnimeFinder/assets/96992366/c75a9627-32a7-47a4-b3e9-213a6be07163
+https://github.com/Padmaja7664/AnimeFinder/assets/96992366/e630009b-575c-4b03-912e-e6014aa346e3
 
 
 
