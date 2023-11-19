@@ -1,6 +1,6 @@
 # AnimeFinder
 
->dependencies  
+>dependencies used
 
     implementation 'com.google.code.gson:gson:2.8.9'
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
@@ -10,7 +10,7 @@
     implementation 'com.squareup.okhttp3:okhttp:4.9.1'
     implementation 'androidx.browser:browser:1.6.0'  
 
->Check latest version of Picasso from https://github.com/square/picasso
+>Check the latest version of Picasso from https://github.com/square/picasso
 
 >Add the below code in android of gradle build 
 
